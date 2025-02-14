@@ -1,19 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jianbin Dong</h1>
 <h3 align="center">A Cloud security architecture engineer from china</h3>
 
-- 🔭 I’m currently working on [Yonyou HongKong](https://www.yonyou.com.hk/)
-
-- 🌱 I’m currently learning **123**
-
-- 👯 I’m looking to collaborate on [123](123)
-
-- 🤝 I’m looking for help with [123](123)
-
-- 👨‍💻 All of my projects are available at [123](123)
-
-- 📝 I regularly write articles on [123](123)
-
-- 💬 Ask me about **123**
+- 🔭 Currently working on [Yonyou HongKong](https://www.yonyou.com.hk/)
 
 - 📫 How to reach me **jaydong180914@gmail.com**
 
